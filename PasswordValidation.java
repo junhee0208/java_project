@@ -3,7 +3,7 @@ public class PasswordValidation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		validatePwd validpwd = new validatePwd();
+		ValidatePwd validpwd = new ValidatePwd();
 		
 		String password = "sfsdffsdTsdf";
 		
